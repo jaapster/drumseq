@@ -1,0 +1,11 @@
+#define NUMBER_OF_SHIFT_IN_CHIPS 1
+#define DATA_WIDTH NUMBER_OF_SHIFT_IN_CHIPS * 8
+
+#define PIN_CLOCK 0
+#define PIN_OUT_DATA 1
+#define PIN_OUT_LATCH 2
+#define PIN_IN_PLOAD 3
+#define PIN_IN_DATA 4
+
+#define IO_SAMPLE_RATE 500
+#define LED_PWM_RATE 10
