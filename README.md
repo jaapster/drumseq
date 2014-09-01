@@ -1,0 +1,4 @@
+drumseq
+=======
+
+AVR based drumsequencer
